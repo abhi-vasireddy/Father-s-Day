@@ -1,0 +1,6 @@
+{
+  "name": "Fathers Day Tribute Website",
+  "description": "A premium cinematic digital tribute for Fathers Day dedicated to K Vijay Kumar with warm gold and green themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
